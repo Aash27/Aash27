@@ -28,7 +28,7 @@ Tech Stack
 
 GitHub Stats
 ---
-<p align="center">
+<p align="left">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aash27&show_icons=true&theme=tokyonight"/>
 

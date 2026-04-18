@@ -28,12 +28,9 @@ Tech Stack
 
 GitHub Stats
 ---
-<p align="left">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Aash27&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Aash27&theme=tokyonight"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aash27&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aash27&theme=tokyonight" height="160"/>
 </p>
 
 ---

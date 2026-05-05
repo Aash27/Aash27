@@ -16,8 +16,6 @@ Tech Stack
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge)
 ![Groq](https://img.shields.io/badge/Groq-000000?style=for-the-badge)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka)
-![LLMs](https://img.shields.io/badge/LLMs-8A2BE2?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge)
 ![OpenAI API](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
